@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Know Your Nation</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="fetching_countries">Fetching Countries</string>
+    <string name="offline_msg">Internet is not available. You might be seeing offline data</string>
+</resources>
